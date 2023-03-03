@@ -3,11 +3,14 @@
 
 **um pouco sobre mim** 
 
-* 23 anos  
-* Formado em Técnico em informatica - cesc(4/4)
-* Tecnologo em Analise em Desenvolvimento de Sistemas - IFPR(Cursando-2/3) 
-* help desk - Unespar polo em União da vitoira 
- 
+* 23 anos.  
+* Formado em Técnico em informatica - cesc(4/4).
+* Tecnologo em Analise em Desenvolvimento de Sistemas - IFPR(Cursando-2/3) .
+* help desk - Unespar polo em União da vitoira.   
+* linguagens que estou aprendendo - python, c, js, html/css, c#, mysql. 
+* instagram - @marcosnerusjose
+
+
 
   **Aprocura de um estagio na área** 
 
